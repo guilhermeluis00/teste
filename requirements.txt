@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyscopg2-binary
+python-dotenv
+bcrypt
+pyjwt
