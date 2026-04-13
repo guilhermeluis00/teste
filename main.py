@@ -10,3 +10,4 @@ app = FastAPI(
 @app.get("/")
 def root():
     return {"message": "Bem-vindo à API de teste!"}
+#alterado
